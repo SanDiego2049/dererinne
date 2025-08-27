@@ -242,6 +242,10 @@ hr {
     text-align: center;
   }
 
+  input {
+    max-width: 100%;
+  }
+
   button {
     width: 100%;
     margin-top: 10px;
